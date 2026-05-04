@@ -1,4 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+Difficulty,Title,Link,Topics
 HARD,Text Justification,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
 HARD,Palindrome Pairs,https://leetcode.com/problems/palindrome-pairs,"Array, Hash Table, String, Trie"
 HARD,Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
