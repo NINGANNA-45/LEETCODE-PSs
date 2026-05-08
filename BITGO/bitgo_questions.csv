@@ -1,0 +1,11 @@
+Difficulty,Title,Link,Topics
+HARD,Check if an Original String Exists Given Two Encoded Strings,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
+MEDIUM,Gas Station,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Number of Islands,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Longest Substring with At Most K Distinct Characters,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+HARD,Bus Routes,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,LRU Cache,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Game of Life,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+HARD,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
