@@ -1,0 +1,17 @@
+Difficulty,Title,Link,Topics
+MEDIUM,Reward Top K Students,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+HARD,Delete Duplicate Folders in System,https://leetcode.com/problems/delete-duplicate-folders-in-system,"Array, Hash Table, String, Trie, Hash Function"
+HARD,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Coloring A Border,https://leetcode.com/problems/coloring-a-border,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Two Out of Three,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+MEDIUM,K Highest Ranked Items Within a Price Range,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range,"Array, Breadth-First Search, Sorting, Heap (Priority Queue), Matrix"
+MEDIUM,Order Two Columns Independently,https://leetcode.com/problems/order-two-columns-independently,Database
+HARD,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Maximal Square,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Integer to Roman,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+EASY,Backspace String Compare,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Permutations,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Number of Islands,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Valid Parentheses,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,LRU Cache,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Roman to Integer,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
