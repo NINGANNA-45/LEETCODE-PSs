@@ -1,4 +1,4 @@
-Difficulty,Title,Topics
+Difficulty,Title,Link,Topics
 EASY,Two Sum,https://leetcode.com/problems/two-sum,"Array, Hash Table"
 MEDIUM,Merge Intervals,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
 MEDIUM,Add Two Numbers,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
