@@ -1,4 +1,4 @@
-Difficulty,Title,Topics
+Difficulty,Title,Link,Topics
 MEDIUM,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
 MEDIUM,Online Election,https://leetcode.com/problems/online-election,"Array, Hash Table, Binary Search, Design"
 MEDIUM,Rabbits in Forest,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
