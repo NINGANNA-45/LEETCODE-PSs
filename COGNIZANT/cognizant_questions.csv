@@ -1,0 +1,30 @@
+Difficulty,Title,Link,Topics
+EASY,Palindrome Number,https://leetcode.com/problems/palindrome-number,Math
+EASY,Count Subarrays of Length Three With a Condition,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+MEDIUM,Smallest Value of the Rearranged Number,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
+EASY,Two Sum,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Fibonacci Number,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+MEDIUM,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Anagram,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Maximum Subarray,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Product Sales Analysis I,https://leetcode.com/problems/product-sales-analysis-i,Database
+MEDIUM,Reverse Integer,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Second Highest Salary,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,Valid Parentheses,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Longest Common Prefix,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Fizz Buzz,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+EASY,Rising Temperature,https://leetcode.com/problems/rising-temperature,Database
+HARD,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Add Two Numbers,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Count Primes,56.7,0.34790664479869343,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+EASY,Students and Examinations,56.7,0.6049763924906179,https://leetcode.com/problems/students-and-examinations,Database
+MEDIUM,3Sum,56.7,0.3707108579983065,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Move Zeroes,56.7,0.6280402649575271,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Binary Search,56.7,0.5956450606389617,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+EASY,Happy Number,56.7,0.580727741481129,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Merge Two Sorted Lists,56.7,0.6684097523447796,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Search Insert Position,56.7,0.4901244828232536,https://leetcode.com/problems/search-insert-position,"Array, Binary Search"
